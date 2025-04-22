@@ -2,14 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oibsip-priyanka&label=Profile%20views&color=0e75b6&style=flat" alt="oibsip-priyanka" /> </p>
-
-
-
-- 📫 How to reach me **priyankat221b@gmail.com**
-
-- <img align="right" alt="coding" height ="200" width="300"
+ <img align="right" alt="coding" height ="200" width="300"
   src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
+- 📫 How to reach me **priyankat221b@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@prianka_221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prianka_221b" height="30" width="40" /></a>
